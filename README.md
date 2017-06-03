@@ -3,5 +3,3 @@ Este sistema propõe o desenvolvimento de um sistema para gerenciamento e dilige
 
 <h3>ACESSO</h3>
 O SIGED possui uma autenticação de usuários que para acessar o sistema precisa informar o email e senha, caso o usuário não tenha acesso o mesmo poderá se cadastrar informado os dados para que assim possa obter o acesso, abaixo estão os protótipos das telas de Login e de Registro de Usuários>
-
-<h3>TELA DE LOGIN</h3>
